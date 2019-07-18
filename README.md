@@ -1,2 +1,3 @@
-# TensorFlow_Practice
-基于python+numpy实现了logistic回归（二类别）
+# TensorFlow_Practice For Recommendation System
+
+基于tensorflow的关于推荐的传统模型及深度模型demo
