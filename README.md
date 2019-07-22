@@ -7,11 +7,10 @@
 # 2. 目录
 ## 2.1 广告CTR预估系列
 
-- [x] LR(Logistic Regression) + GBDT
+- [x] LR + GBDT
 - [x] MLP(LS-PLM)
 - [x] FM
 - [x] FFM
-- [x] FNN
 - [x] PNN（IPNN OPNN PNN*）
 - [x] Wide & Deep
 - [x] DeepFM
@@ -29,5 +28,6 @@
 ## 2.4 学习笔记
 - [x] Batch Normalization
 - [x] TensorLayer
+- [x] 推荐相关已读论文
 
 模型中的推荐相关数据集下载：https://pan.baidu.com/s/18IYm_UKwXmX819_wCMNE6g            提取码：e83v
