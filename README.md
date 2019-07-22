@@ -30,3 +30,4 @@
 - [x] Batch Normalization
 - [x] TensorLayer
 
+模型中的推荐相关数据集下载：https://pan.baidu.com/s/18IYm_UKwXmX819_wCMNE6g            提取码：e83v
