@@ -1,11 +1,11 @@
-# TensorFlow_Practice For Recommendation system
+# TensorFlow_Practice For Recommendation System
 
 # 1. 介绍
 机器学习与深度学习系列~(ctr预估)
 仓库主要分享推荐系统相关论文和一些关于推荐的传统模型和深度模型学习实践代码的Demo，持续更新中。
 
 # 2. 目录
-## 2.1 广告CTR预估系列
+## 2.1 广告CTR预估系列（更新中）
 
 - [x] LR + GBDT
 - [x] MLP(LS-PLM)
@@ -19,13 +19,13 @@
 - [x] AFM
 - [x] DCN-Deep Cross Network
 
-## 2.2 推荐系统
+## 2.2 推荐系统（暂未更）
 - [x] Deep Neural Network for Youtube Recommendations
 
-## 2.3 深度学习
+## 2.3 深度学习（暂未更）
 - [x] LSTM原理与实践
 
-## 2.4 学习笔记
+## 2.4 学习笔记（暂未更）
 - [x] Batch Normalization
 - [x] TensorLayer
 - [x] 推荐相关已读论文
