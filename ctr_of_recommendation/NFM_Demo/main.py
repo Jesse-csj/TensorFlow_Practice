@@ -6,7 +6,6 @@ from sklearn.metrics import make_scorer
 from sklearn.model_selection import StratifiedKFold
 from DataReader import FeatureDictionary, DataParser
 from matplotlib import pyplot as plt
-
 import config
 from NFM import NFM
 
