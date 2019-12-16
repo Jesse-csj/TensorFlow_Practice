@@ -14,10 +14,12 @@
 - [x] PNN（IPNN OPNN PNN*）
 - [x] Wide & Deep
 - [x] DeepFM
-- [x] DIN
 - [x] NFM
 - [x] AFM
-- [x] DCN-Deep Cross Network
+- [x] DCN
+- [x] DIN
+- [x] DIEN
+- [x] DSIN
 
 ## 2.2 推荐系统（暂未更）
 - [x] Deep Neural Network for Youtube Recommendations
