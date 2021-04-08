@@ -35,6 +35,6 @@
 - [x] 推荐相关已读论文
 
   ​              
-
-**模型中的推荐相关数据集下载**：https://pan.baidu.com/s/1j_lqmk9_SeqlbUfIt3RLoA            提取码：rhgq
+  
+  **模型中的推荐相关数据集下载**：链接：https://share.weiyun.com/2zOvtF2s 	密码：8nddnd
 
